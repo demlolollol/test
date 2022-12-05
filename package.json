@@ -1,0 +1,25 @@
+{
+  "name": "rplace",
+  "version": "1.0.0",
+  "description": "A Small Copy Of R/Place",
+  "main": "main.js",
+  "scripts": {
+    "test": "run rplace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demlolollol/testing.git"
+  },
+  "keywords": [
+    "."
+  ],
+  "author": "Dem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demlolollol/testing/issues"
+  },
+  "homepage": "https://github.com/demlolollol/testing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
